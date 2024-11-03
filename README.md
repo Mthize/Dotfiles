@@ -31,12 +31,3 @@ then use stow to create symlinks
 ```
 $ stow .
 ```
-```
-```
-```
-```
-```
-```
-```
-```
-```
